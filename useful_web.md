@@ -14,4 +14,9 @@
 >
 >https://awesome-r.com/
 >
+>Bayesian Basics
+>
+>https://m-clark.github.io/docs/IntroBayes.html
+>
+>
 >
