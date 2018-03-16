@@ -33,3 +33,6 @@ You can change the URL with:
 >git remote set-url origin git+ssh://git@github.com/username/reponame.git
 
 https://stackoverflow.com/questions/8588768/git-push-username-password-how-to-avoid
+
+How do I code against one github repo on 2 computers?
+> https://stackoverflow.com/questions/6012073/how-do-i-code-against-one-github-repo-on-2-computers
