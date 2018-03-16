@@ -10,8 +10,8 @@
 >
 >http://ggplot2.tidyverse.org/reference/index.html
 >
+>awesome R, amazing R packages
 >
->
->
+>https://awesome-r.com/
 >
 >
